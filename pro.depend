@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1727853666 source:d:\pro\table.cpp
+	<iostream>
+	"table.h"
+
+1727853702 d:\pro\table.h
+
+1727854270 source:d:\pro\info.cpp
+	<iostream>
+	"choice.h"
+
+1727854591 d:\pro\choice.h
+
+1727854408 source:d:\pro\main.cpp
+	"table.h"
+	"choice.h"
+	<iostream>
+
+1727854910 source:d:\pro\quizeaboutele.cpp
+	<iostream>
+	"choice.h"
+
